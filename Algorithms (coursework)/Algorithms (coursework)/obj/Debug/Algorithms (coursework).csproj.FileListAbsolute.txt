@@ -1,0 +1,30 @@
+C:\Users\GodHybrid\source\repos\Algorithms (coursework)\Algorithms (coursework)\bin\Debug\Algorithms (coursework).exe.config
+C:\Users\GodHybrid\source\repos\Algorithms (coursework)\Algorithms (coursework)\bin\Debug\Algorithms (coursework).exe
+C:\Users\GodHybrid\source\repos\Algorithms (coursework)\Algorithms (coursework)\bin\Debug\Algorithms (coursework).pdb
+C:\Users\GodHybrid\source\repos\Algorithms (coursework)\Algorithms (coursework)\obj\Debug\Algorithms (coursework).csprojAssemblyReference.cache
+C:\Users\GodHybrid\source\repos\Algorithms (coursework)\Algorithms (coursework)\obj\Debug\Algorithms__coursework_.Form1.resources
+C:\Users\GodHybrid\source\repos\Algorithms (coursework)\Algorithms (coursework)\obj\Debug\Algorithms__coursework_.Properties.Resources.resources
+C:\Users\GodHybrid\source\repos\Algorithms (coursework)\Algorithms (coursework)\obj\Debug\Algorithms (coursework).csproj.GenerateResource.cache
+C:\Users\GodHybrid\source\repos\Algorithms (coursework)\Algorithms (coursework)\obj\Debug\Algorithms (coursework).csproj.CoreCompileInputs.cache
+C:\Users\GodHybrid\source\repos\Algorithms (coursework)\Algorithms (coursework)\obj\Debug\Algorithms (coursework).exe
+C:\Users\GodHybrid\source\repos\Algorithms (coursework)\Algorithms (coursework)\obj\Debug\Algorithms (coursework).pdb
+C:\Users\GodHybrid\source\repos\Algorithms (coursework)\Algorithms (coursework)\obj\Debug\Algorithms__coursework_.CombinationsForm.resources
+C:\Users\GodHybrid\source\repos\Algorithms (coursework)\Algorithms (coursework)\obj\Debug\Algorithms__coursework_.PermutationsForm.resources
+C:\Users\GodHybrid\source\repos\Algorithms (coursework)\Algorithms (coursework)\obj\Debug\Algorithms__coursework_.SetSplitsForm.resources
+C:\Users\GodHybrid\source\repos\Algorithms (coursework)\Algorithms (coursework)\obj\Debug\Algorithms__coursework_.SplitsForm.resources
+C:\Users\GodHybrid\source\repos\Algorithms (coursework)\Algorithms (coursework)\obj\Debug\Algorithms__coursework_.TuplesForm.resources
+C:\Users\Alucard\Desktop\Algorithms (coursework)\Algorithms (coursework)\bin\Debug\Algorithms (coursework).exe.config
+C:\Users\Alucard\Desktop\Algorithms (coursework)\Algorithms (coursework)\bin\Debug\Algorithms (coursework).exe
+C:\Users\Alucard\Desktop\Algorithms (coursework)\Algorithms (coursework)\bin\Debug\Algorithms (coursework).pdb
+C:\Users\Alucard\Desktop\Algorithms (coursework)\Algorithms (coursework)\obj\Debug\Algorithms (coursework).csprojResolveAssemblyReference.cache
+C:\Users\Alucard\Desktop\Algorithms (coursework)\Algorithms (coursework)\obj\Debug\Algorithms__coursework_.CombinationsForm.resources
+C:\Users\Alucard\Desktop\Algorithms (coursework)\Algorithms (coursework)\obj\Debug\Algorithms__coursework_.Form1.resources
+C:\Users\Alucard\Desktop\Algorithms (coursework)\Algorithms (coursework)\obj\Debug\Algorithms__coursework_.PermutationsForm.resources
+C:\Users\Alucard\Desktop\Algorithms (coursework)\Algorithms (coursework)\obj\Debug\Algorithms__coursework_.SetSplitsForm.resources
+C:\Users\Alucard\Desktop\Algorithms (coursework)\Algorithms (coursework)\obj\Debug\Algorithms__coursework_.SplitsForm.resources
+C:\Users\Alucard\Desktop\Algorithms (coursework)\Algorithms (coursework)\obj\Debug\Algorithms__coursework_.TuplesForm.resources
+C:\Users\Alucard\Desktop\Algorithms (coursework)\Algorithms (coursework)\obj\Debug\Algorithms__coursework_.Properties.Resources.resources
+C:\Users\Alucard\Desktop\Algorithms (coursework)\Algorithms (coursework)\obj\Debug\Algorithms (coursework).csproj.GenerateResource.cache
+C:\Users\Alucard\Desktop\Algorithms (coursework)\Algorithms (coursework)\obj\Debug\Algorithms (coursework).csproj.CoreCompileInputs.cache
+C:\Users\Alucard\Desktop\Algorithms (coursework)\Algorithms (coursework)\obj\Debug\Algorithms (coursework).exe
+C:\Users\Alucard\Desktop\Algorithms (coursework)\Algorithms (coursework)\obj\Debug\Algorithms (coursework).pdb
